@@ -1,0 +1,1 @@
+mcfg_hw/generic/china/nubia/hw/la/7+5_mode/sr_dsds/mcfg_hw.mbn
